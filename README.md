@@ -33,4 +33,3 @@ Follow the prompts to encrypt or decrypt an image.
 ## Security Note
 Make sure to keep the encryption_key.key file secure, as it is required to decrypt the images.
 
-### Steps to Upload to
